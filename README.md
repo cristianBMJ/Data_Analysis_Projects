@@ -16,7 +16,7 @@ This [project](analyzing-purchasing-patterns.ipynb) analyzes real-world e-commer
 
 Dataset Highlights
 
-Events: 2.66M views, 69K add-to-carts, 22K transactions.
-Users: 1.4M unique visitors.
-Products: 417K unique items.
-The analysis focuses on identifying anomalies, popular products, and customer journeys to support decision-making in e-commerce operations.
+- Events: 2.66M views, 69K add-to-carts, 22K transactions.
+- Users: 1.4M unique visitors.
+- Products: 417K unique items.
+- The analysis focuses on identifying anomalies, popular products, and customer journeys to support decision-making in e-commerce operations.
